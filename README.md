@@ -16,6 +16,10 @@ pip install opencv-python==4.13.0.92
 
 ### Core Components
 
+```
+Visual-Grounding-Anything/
+```
+
 #### 1. Image Detection (image_detection_app.py)
 This application identifies and localizes multiple objects within an image based on a text prompt. It outputs precise bounding boxes and masks, providing visual confirmation of detected elements.
 - **Model:** Polaris-VGA-4B-Post1.0e
