@@ -1,4 +1,4 @@
-# **Visual-Grounding-Anything**
+# **[Visual-Grounding-Anything](https://huggingface.co/buckets/prithivMLmods/visual-grounding-anything)**
 
 Visual-Grounding-Anything is a comprehensive suite of applications designed for precise object detection, pointing, and tracking in both images and videos. Leveraging the Polaris-VGA-4B model, the system provides high-accuracy spatial reasoning and temporal association across various visual tasks. The project is divided into four specialized modules: Image Detection, Image Pointing, Video Object Tracking, and Video Points Tracking. Each module is optimized for performance and reliability using advanced heuristic matching and association algorithms.
 
